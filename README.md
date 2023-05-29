@@ -1,10 +1,10 @@
 # Павлинка Тодорова, бр. на индекс 213105
 # Control Flow Graph
-![FINALllllllllllll]("C:\Users\pavli\OneDrive\Desktop\FINALllllllllllll.png")
+![FINALllllllllllll](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/2667bc6a-ad0a-4fee-9afa-75b27f4d471c)
 # Цикломатска комплексност
 Цикломатската комплексност на овој код е 11, ја добив така што ја користев формулата за предикатни јазли V(G) = P + 1 каде што P е бројот на предикатни јазли чиј број изнесува 10, па 10 + 1 = 11.
 # Тест случаи за Every Branch
-![image](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/fae01221-0082-4481-b6b6-3b60aa1d0ccf)
+![everybranch](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/18d5b1dc-3562-482c-b6b8-1b50d565af89)
 
 Во горенаведената табела се претставени 5 тест случаи и соодветните гранки во кои итите влегуваат. Полињата означенни со "FALSE" означуваaт дека гранката не е измината, а "TRUE" означува дека гранката е измината со соодветниот тест, односно дека тестот е успешно поминат.
 
@@ -21,7 +21,8 @@
 34 / 35 гранки се изминати со досегашните 4 тест случаи, ни останува за изминување уште една гранка, а тоа е гранката 20-24, која се изминува со последниот тест случај.
 
 # Тест случаи за Multiple Condition
-![image](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/1422a4ad-5c39-4036-9f5a-75508f8269cc)
+![MultipleCondition](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/f0fd4ec5-b1fd-4d26-a39c-6b8adc2ba463)
+
 
  
 
