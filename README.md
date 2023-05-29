@@ -1,6 +1,6 @@
 # Павлинка Тодорова, бр. на индекс 213105
 # Control Flow Graph
-![FINALllllllllllll](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/c69388a9-9590-4a7c-9578-4fe199a4052a)
+![FINALllllllllllll]("C:\Users\pavli\OneDrive\Desktop\FINALllllllllllll.png")
 # Цикломатска комплексност
 Цикломатската комплексност на овој код е 11, ја добив така што ја користев формулата за предикатни јазли V(G) = P + 1 каде што P е бројот на предикатни јазли чиј број изнесува 10, па 10 + 1 = 11.
 # Тест случаи за Every Branch
