@@ -2,9 +2,11 @@
 # Павлинка Тодорова, бр. на индекс 213105
 
 # Control Flow Graph
-![FINALllllllllllll](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/2667bc6a-ad0a-4fee-9afa-75b27f4d471c)
+![finalfinal](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/57499c3c-208f-4e7c-b25f-348f47cffd31)
+
 # Цикломатска комплексност
 Цикломатската комплексност на овој код е 11, ја добив така што ја користев формулата за предикатни јазли V(G) = P + 1 каде што P е бројот на предикатни јазли чиј број изнесува 10, па 10 + 1 = 11.
+
 # Тест случаи за Every Branch
 ![everybranch](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/18d5b1dc-3562-482c-b6b8-1b50d565af89)
 
@@ -28,18 +30,6 @@
 
 5. Ни останува за изминување уште една гранка, а тоа е гранката 20-24, која се изминува со последниот тест случај.
 
-
-![test1_eb](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/49f2bb79-2ada-468e-baec-084511a5cf30)
-
-![test2_eb](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/7e4cfbde-ff78-4ea0-a5a0-ca70fe70f119)
-
-![test3_eb](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/194fbc52-265d-49be-bddc-de63d407cdeb)
-
-![test4_eb](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/e3fe610a-30ca-4bd5-b50f-f06363ccdaa3)
-
-![test5_eb](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/51ee9dc6-9c7d-48b0-ac84-a0edbfe7cccb)
-
-
 # Тест случаи за Multiple Condition
 ![MultipleCondition](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/f0fd4ec5-b1fd-4d26-a39c-6b8adc2ba463)
 
@@ -50,22 +40,4 @@
 Тест случај 3: - user== null враќа F, user.getPassword()==null исто така враќа F, мора да се провери и следниот израз - user.getEmail()==null кој враќа T со овој тест случај условот повторно е исполнет и се преминува од јазол 1 на јазол 2.(1-2)
 
 Тест случај 4: - Сите изрази враќаат F , се преминува од јазол 1 на јазол 3, јазолот 2 се скока бидејќи условот не е исполнет. (1-3)
-
-
-![test1_mc](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/c2bb6298-62ae-4371-805f-bca7251749f2)
-
-![test2_mc](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/e7e6ebb1-8bd9-4a4e-832f-d1e04bbd2196)
-
-![test3_mc](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/860527f5-1602-4d6c-bff6-3c97f57ed7cf)
-
-![test4_mc](https://github.com/pavlinkatt/SI_2023_lab2_213105/assets/126609209/f646cfbe-8d01-4157-8ab9-1cf237669985)
-
-
-
-
-
-
-
-
- 
 
